@@ -2,6 +2,7 @@
 # 8-rectangle.py
 """Defines a Rectangle class."""
 
+
 class Rectangle:
     '''Defines the Rectangle type'''
     number_of_instances = 0
