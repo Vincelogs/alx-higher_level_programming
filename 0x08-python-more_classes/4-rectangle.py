@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """prints rectangle with #"""
 
+
 class Rectangle:
     '''Defines the Rectangle type'''
 
