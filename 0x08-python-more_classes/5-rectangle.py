@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """calls the __del__() method when an object gets deleted"""
 
+
 class Rectangle:
-    '''Defines the Rectangle type'''
+    """Defines the Rectangle type"""
 
     def __init__(self, width=0, height=0):
         self.width = width
