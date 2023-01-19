@@ -35,11 +35,11 @@ class SinglyLinkedList:
 
     def __str__(self):
         current = self.head
-        result = ""
+        result = []
         while current:
-            result += str(current.data) + "\n"
+            result.append(str(current.data))
             current = current.next_node
-        return result
+        return ('\n'.join(result))
 
     def sorted_insert(self, value):
         new_node = Node(value)
