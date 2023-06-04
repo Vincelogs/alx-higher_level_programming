@@ -4,4 +4,4 @@
 
 ## Concepts
 For this project, we expect you to look at this concept:
-- [Python programming](../alx-concept_page/Python programming)
+- [Python programming](/alx-concept_page/Python programming)
